@@ -2,7 +2,7 @@ import React from 'react'
 import {
   Container, Top, Logo, Title,
 } from './styles'
-import logo from '../../../assets/Nubank_Logo.png';
+import logo from '../../../assets/logo.png';
 import Icon from 'react-native-vector-icons/MaterialIcons';
 
 export default function Header() {
